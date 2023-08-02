@@ -1,6 +1,6 @@
 [todoInfo]
-    user = "root"
+    user = "user"
     host = "localhost"
     port = "3306"
-    password = "@The1299the"
+    password = "pass"
     database = 'todo_list'
