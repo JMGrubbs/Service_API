@@ -1,7 +1,0 @@
-[todoInfo]
-    user = "todo_bot"
-    host = "localhost"
-    port = "3306"
-    password = "todo_bot1299"
-    database = 'todo'
-    API_KEY = "APIDA8Y/OjT!LEmnQWFCgLUc-0m1f55Odlcp47Aq=05SyyoSF=tH7KV!jKCSYaypckS7nJgps8PtMEaH92q0HJ/aHic7gCsL38!jKZ=lqa2M?/jjOQ!=dmvlEwWip1aSCuT?eGiqiS=MgYWhJnmZu!xk/HrVsV8kfuRBnbmWUgr=LY3HR?ePUqAqc9ikR7sshno2NjyWbgkp/jPoQ2xPbGN?-m1YBx-1-25XqK7nM9wyDkSx6kAgYgK2aAwdw8OG"
