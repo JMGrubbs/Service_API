@@ -1,8 +1,8 @@
 {
-  "name": "todobackend",
+  "name": "Service_API",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "Service_API.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,8 +12,9 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2",
-    "mysql2": "^3.5.1",
+    "mysql2": "^3.6.2",
+    "node": "^20.7.0",
     "toml": "^3.0.0",
-    "uuid": "^9.0.0"
+    "uuid": "^9.0.1"
   }
 }

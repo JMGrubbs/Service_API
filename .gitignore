@@ -1,2 +1,5 @@
 node_modules
 /*.toml
+/*.json
+*.json
+env.js
